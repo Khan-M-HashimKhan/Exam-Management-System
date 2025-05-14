@@ -1,0 +1,3 @@
+OOP Object Oreinted Programming   3001
+SDA Software Desighn and Analysis 3002
+PF  Programiing Fundemantals      3003
